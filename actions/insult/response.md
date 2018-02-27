@@ -1,0 +1,1 @@
+{successResult.exclamation}, {someone}, but {successResult.insult}

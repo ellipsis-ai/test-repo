@@ -1,0 +1,8 @@
+{
+  "name" : "Empathic Bot",
+  "exportId" : "ZdfnNGcIRJaK3bp3VJUhaA",
+  "icon" : "😇",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuth2ApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}
